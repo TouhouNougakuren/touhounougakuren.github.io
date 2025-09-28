@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+* {
+color: #ffffff;
+}
+
+body {
+background-color: #000000;
+}
+
+h2 {
+margin: 4px;
+padding: 3px;
+border-width: 1px;
+border-color: #333333;
+}
+
+div {
+margin: 6px;
+padding: 5px;
+border-width: 1px;
+border-color: #999999;
+}
+
+div#base {
+width: 800px;
+margin: 12px 240px;
+border-color: #000000;
+}
+
+div#title {
+width: 192px;
+}
+
+div#content {
+width: 432px;
+float: left;
+}
+
+div#images {
+width: 332px;
+float: right;
+}
+
+a {
+color: #00ffff;
+}
